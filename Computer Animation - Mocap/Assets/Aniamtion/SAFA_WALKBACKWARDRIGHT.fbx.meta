@@ -1,0 +1,711 @@
+fileFormatVersion: 2
+guid: 91f8782fd1b593941b832627a7daf594
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: C3D:optical
+    100002: C3D:Safa_BackLeft
+    100004: C3D:Safa_BackRight
+    100006: C3D:Safa_BackTop
+    100008: C3D:Safa_Chest
+    100010: C3D:Safa_HeadFront
+    100012: C3D:Safa_HeadSide
+    100014: C3D:Safa_HeadTop
+    100016: C3D:Safa_LAnkleOut
+    100018: C3D:Safa_LElbowOut
+    100020: C3D:Safa_LHandOut
+    100022: C3D:Safa_LKneeOut
+    100024: C3D:Safa_LShin
+    100026: C3D:Safa_LShoulderBack
+    100028: C3D:Safa_LShoulderTop
+    100030: C3D:Safa_LThigh
+    100032: C3D:Safa_LToeIn
+    100034: C3D:Safa_LToeOut
+    100036: C3D:Safa_LUArmHigh
+    100038: C3D:Safa_LWristIn
+    100040: C3D:Safa_LWristOut
+    100042: C3D:Safa_RAnkleOut
+    100044: C3D:Safa_RElbowOut
+    100046: C3D:Safa_RHandOut
+    100048: C3D:Safa_RKneeOut
+    100050: C3D:Safa_RShin
+    100052: C3D:Safa_RShoulderBack
+    100054: C3D:Safa_RShoulderTop
+    100056: C3D:Safa_RThigh
+    100058: C3D:Safa_RToeIn
+    100060: C3D:Safa_RToeOut
+    100062: C3D:Safa_RUArmHigh
+    100064: C3D:Safa_RWristIn
+    100066: C3D:Safa_RWristOut
+    100068: C3D:Safa_WaistLBack
+    100070: C3D:Safa_WaistLFront
+    100072: C3D:Safa_WaistRBack
+    100074: C3D:Safa_WaistRFront
+    100076: Safa:AbNull
+    100078: Safa:ChestNull
+    100080: Safa:HeadNull
+    100082: Safa:HipNull
+    100084: Safa:LFArmNull
+    100086: Safa:LFootNull
+    100088: Safa:LHandNull
+    100090: Safa:LShinNull
+    100092: Safa:LShoulderNull
+    100094: Safa:LThighNull
+    100096: Safa:LToeNull
+    100098: Safa:LUArmNull
+    100100: Safa:NeckNull
+    100102: Safa:RFArmNull
+    100104: Safa:RFootNull
+    100106: Safa:RHandNull
+    100108: Safa:RShinNull
+    100110: Safa:RShoulderNull
+    100112: Safa:RThighNull
+    100114: Safa:RToeNull
+    100116: Safa:RUArmNull
+    100118: //RootNode
+    400000: C3D:optical
+    400002: C3D:Safa_BackLeft
+    400004: C3D:Safa_BackRight
+    400006: C3D:Safa_BackTop
+    400008: C3D:Safa_Chest
+    400010: C3D:Safa_HeadFront
+    400012: C3D:Safa_HeadSide
+    400014: C3D:Safa_HeadTop
+    400016: C3D:Safa_LAnkleOut
+    400018: C3D:Safa_LElbowOut
+    400020: C3D:Safa_LHandOut
+    400022: C3D:Safa_LKneeOut
+    400024: C3D:Safa_LShin
+    400026: C3D:Safa_LShoulderBack
+    400028: C3D:Safa_LShoulderTop
+    400030: C3D:Safa_LThigh
+    400032: C3D:Safa_LToeIn
+    400034: C3D:Safa_LToeOut
+    400036: C3D:Safa_LUArmHigh
+    400038: C3D:Safa_LWristIn
+    400040: C3D:Safa_LWristOut
+    400042: C3D:Safa_RAnkleOut
+    400044: C3D:Safa_RElbowOut
+    400046: C3D:Safa_RHandOut
+    400048: C3D:Safa_RKneeOut
+    400050: C3D:Safa_RShin
+    400052: C3D:Safa_RShoulderBack
+    400054: C3D:Safa_RShoulderTop
+    400056: C3D:Safa_RThigh
+    400058: C3D:Safa_RToeIn
+    400060: C3D:Safa_RToeOut
+    400062: C3D:Safa_RUArmHigh
+    400064: C3D:Safa_RWristIn
+    400066: C3D:Safa_RWristOut
+    400068: C3D:Safa_WaistLBack
+    400070: C3D:Safa_WaistLFront
+    400072: C3D:Safa_WaistRBack
+    400074: C3D:Safa_WaistRFront
+    400076: Safa:AbNull
+    400078: Safa:ChestNull
+    400080: Safa:HeadNull
+    400082: Safa:HipNull
+    400084: Safa:LFArmNull
+    400086: Safa:LFootNull
+    400088: Safa:LHandNull
+    400090: Safa:LShinNull
+    400092: Safa:LShoulderNull
+    400094: Safa:LThighNull
+    400096: Safa:LToeNull
+    400098: Safa:LUArmNull
+    400100: Safa:NeckNull
+    400102: Safa:RFArmNull
+    400104: Safa:RFootNull
+    400106: Safa:RHandNull
+    400108: Safa:RShinNull
+    400110: Safa:RShoulderNull
+    400112: Safa:RThighNull
+    400114: Safa:RToeNull
+    400116: Safa:RUArmNull
+    400118: //RootNode
+    7400000: SAFA_WALKBACKWARDRIGHT
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'SAFA_WALKBACKWARDRIGHT' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Safa:ChestNull' has translation
+      animation that will be discarded.\n\t'Safa:HeadNull' has translation animation
+      that will be discarded.\n\t'Safa:LHandNull' has translation animation that will
+      be discarded.\n\t'Safa:RHandNull' has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SAFA_WALKBACKWARDRIGHT
+      takeName: SAFA_WALKBACKWARDRIGHT
+      firstFrame: 150
+      lastFrame: 406
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Safa:HipNull
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:LThighNull
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:RThighNull
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:LShinNull
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:RShinNull
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:LFootNull
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:RFootNull
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:AbNull
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:ChestNull
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:NeckNull
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:HeadNull
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:LShoulderNull
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:RShoulderNull
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:LUArmNull
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:RUArmNull
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:LFArmNull
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:RFArmNull
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:LHandNull
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:RHandNull
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:LToeNull
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Safa:RToeNull
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SAFA_WALKBACKWARDRIGHT(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:optical
+      parentName: SAFA_WALKBACKWARDRIGHT(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_WaistLFront
+      parentName: C3D:optical
+      position: {x: -0.80147004, y: 0.95936996, z: 0.31317}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_WaistRFront
+      parentName: C3D:optical
+      position: {x: -0.53755, y: 0.93775, z: 0.34478}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_WaistLBack
+      parentName: C3D:optical
+      position: {x: -0.8212, y: 0.85543996, z: 0.123279996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_WaistRBack
+      parentName: C3D:optical
+      position: {x: -0.49418, y: 0.85661, z: 0.1504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_BackTop
+      parentName: C3D:optical
+      position: {x: -0.65261, y: 1.35826, z: 0.09661}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_Chest
+      parentName: C3D:optical
+      position: {x: -0.74303, y: 1.2017299, z: 0.36866}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_BackLeft
+      parentName: C3D:optical
+      position: {x: -0.7368, y: 1.18933, z: 0.07892}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_BackRight
+      parentName: C3D:optical
+      position: {x: -0.58111995, y: 1.19651, z: 0.0955}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_HeadTop
+      parentName: C3D:optical
+      position: {x: -0.66382, y: 1.6119, z: 0.25382}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_HeadFront
+      parentName: C3D:optical
+      position: {x: -0.67221, y: 1.57438, z: 0.32957}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_HeadSide
+      parentName: C3D:optical
+      position: {x: -0.57548, y: 1.56888, z: 0.24458998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LShoulderBack
+      parentName: C3D:optical
+      position: {x: -0.80939, y: 1.29082, z: 0.10456}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LShoulderTop
+      parentName: C3D:optical
+      position: {x: -0.75566, y: 1.3863599, z: 0.15069}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LElbowOut
+      parentName: C3D:optical
+      position: {x: -1.06555, y: 1.3150599, z: 0.19636999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LUArmHigh
+      parentName: C3D:optical
+      position: {x: -0.95664996, y: 1.26114, z: 0.16416}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LHandOut
+      parentName: C3D:optical
+      position: {x: -1.3439, y: 1.3075199, z: 0.29876}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LWristOut
+      parentName: C3D:optical
+      position: {x: -1.27873, y: 1.31616, z: 0.25592}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LWristIn
+      parentName: C3D:optical
+      position: {x: -1.26999, y: 1.2874401, z: 0.32298}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RShoulderBack
+      parentName: C3D:optical
+      position: {x: -0.52093, y: 1.2874099, z: 0.11512999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RShoulderTop
+      parentName: C3D:optical
+      position: {x: -0.55865, y: 1.3871899, z: 0.18305999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RElbowOut
+      parentName: C3D:optical
+      position: {x: -0.25147, y: 1.2917799, z: 0.23379998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RUArmHigh
+      parentName: C3D:optical
+      position: {x: -0.34056, y: 1.24426, z: 0.22245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RHandOut
+      parentName: C3D:optical
+      position: {x: 0.01893, y: 1.30091, z: 0.35784}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RWristOut
+      parentName: C3D:optical
+      position: {x: -0.03712, y: 1.28356, z: 0.29718}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RWristIn
+      parentName: C3D:optical
+      position: {x: -0.057439998, y: 1.26439, z: 0.37925}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LKneeOut
+      parentName: C3D:optical
+      position: {x: -0.80083996, y: 0.46159, z: 0.16315}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LThigh
+      parentName: C3D:optical
+      position: {x: -0.74633, y: 0.68476, z: 0.31765}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LAnkleOut
+      parentName: C3D:optical
+      position: {x: -0.78933996, y: 0.10614, z: 0.15603}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LShin
+      parentName: C3D:optical
+      position: {x: -0.7349299, y: 0.33299, z: 0.21645999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LToeOut
+      parentName: C3D:optical
+      position: {x: -0.79879993, y: 0.0609, z: 0.27231}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_LToeIn
+      parentName: C3D:optical
+      position: {x: -0.74139, y: 0.06892, z: 0.29155}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RKneeOut
+      parentName: C3D:optical
+      position: {x: -0.50870997, y: 0.47612998, z: 0.2217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RThigh
+      parentName: C3D:optical
+      position: {x: -0.56172997, y: 0.62499, z: 0.31509998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RAnkleOut
+      parentName: C3D:optical
+      position: {x: -0.50205, y: 0.1277, z: 0.17513}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RShin
+      parentName: C3D:optical
+      position: {x: -0.54055, y: 0.36494997, z: 0.23666}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RToeOut
+      parentName: C3D:optical
+      position: {x: -0.50748, y: 0.065630004, z: 0.30631}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:Safa_RToeIn
+      parentName: C3D:optical
+      position: {x: -0.56197, y: 0.066259995, z: 0.31254}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:HipNull
+      parentName: SAFA_WALKBACKWARDRIGHT(Clone)
+      position: {x: -0.66222996, y: 0.81615996, z: 0.23775999}
+      rotation: {x: -0.027078636, y: -0.048629522, z: -0.0038235988, w: 0.9984425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:AbNull
+      parentName: Safa:HipNull
+      position: {x: -0, y: 0.07072, z: 0}
+      rotation: {x: -0.037570864, y: 0.0041725948, z: 0.0058258977, w: 0.9992683}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:ChestNull
+      parentName: Safa:AbNull
+      position: {x: -0, y: 0.20636998, z: 0}
+      rotation: {x: -0.025137939, y: 0.0013372286, z: 0.0077580283, w: 0.999653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:NeckNull
+      parentName: Safa:ChestNull
+      position: {x: -0, y: 0.22281998, z: 0}
+      rotation: {x: 0.08638074, y: 0.10565385, z: 0.096080296, w: 0.9859738}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:HeadNull
+      parentName: Safa:NeckNull
+      position: {x: -0, y: 0.13369, z: 0.01725}
+      rotation: {x: 0.11962661, y: 0.13309878, z: -0.091528505, w: 0.97959006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:LShoulderNull
+      parentName: Safa:ChestNull
+      position: {x: -0.03431, y: 0.1874, z: -0.00337}
+      rotation: {x: -0.01966052, y: -0.0060338983, z: -0.13036841, w: 0.9912523}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:LUArmNull
+      parentName: Safa:LShoulderNull
+      position: {x: -0.10792, y: 0, z: 0}
+      rotation: {x: 0.06689128, y: 0.19533841, z: 0.13588308, w: 0.9689707}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:LFArmNull
+      parentName: Safa:LUArmNull
+      position: {x: -0.26377, y: 0, z: 0}
+      rotation: {x: 0.10888584, y: -0.005564592, z: 0.041367408, w: 0.9931776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:LHandNull
+      parentName: Safa:LFArmNull
+      position: {x: -0.23000999, y: 0, z: 0}
+      rotation: {x: 0.10893279, y: 0.028692493, z: -0.012687651, w: 0.99355394}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:RShoulderNull
+      parentName: Safa:ChestNull
+      position: {x: 0.034519996, y: 0.1874, z: -0.00337}
+      rotation: {x: -0.04310117, y: -0.08601215, z: 0.08817891, w: 0.9914478}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:RUArmNull
+      parentName: Safa:RShoulderNull
+      position: {x: 0.10792, y: 0, z: 0}
+      rotation: {x: 0.042343996, y: -0.011482456, z: -0.14669076, w: 0.98820895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:RFArmNull
+      parentName: Safa:RUArmNull
+      position: {x: 0.26377, y: 0, z: 0}
+      rotation: {x: 0.09881868, y: 0.015586463, z: -0.034619473, w: 0.99438095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:RHandNull
+      parentName: Safa:RFArmNull
+      position: {x: 0.23945999, y: 0, z: 0}
+      rotation: {x: 0.09888692, y: 0.0078224195, z: 0.0071159904, w: 0.9950425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:LThighNull
+      parentName: Safa:HipNull
+      position: {x: -0.08625, y: 0, z: 0}
+      rotation: {x: 0.09108325, y: -0.013220232, z: -0.0063060964, w: 0.9957356}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:LShinNull
+      parentName: Safa:LThighNull
+      position: {x: -0, y: -0.34582, z: 0}
+      rotation: {x: -0.026987601, y: 0.018003235, z: -0.0021381606, w: 0.99947137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:LFootNull
+      parentName: Safa:LShinNull
+      position: {x: -0, y: -0.40839, z: 0}
+      rotation: {x: -0.045086548, y: -0.025680864, z: 0.0479296, w: 0.9975021}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:LToeNull
+      parentName: Safa:LFootNull
+      position: {x: -0, y: -0.056059998, z: 0.12937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:RThighNull
+      parentName: Safa:HipNull
+      position: {x: 0.08625, y: 0, z: 0}
+      rotation: {x: 0.09747877, y: -0.02340498, z: 0.018698813, w: 0.9947867}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:RShinNull
+      parentName: Safa:RThighNull
+      position: {x: -0, y: -0.34582, z: 0}
+      rotation: {x: -0.025954785, y: 0.022105342, z: 0.00999136, w: 0.9993687}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:RFootNull
+      parentName: Safa:RShinNull
+      position: {x: -0, y: -0.40839, z: 0}
+      rotation: {x: -0.044029266, y: 0.055826344, z: -0.017031964, w: 0.9973238}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Safa:RToeNull
+      parentName: Safa:RFootNull
+      position: {x: -0, y: -0.056059998, z: 0.12937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

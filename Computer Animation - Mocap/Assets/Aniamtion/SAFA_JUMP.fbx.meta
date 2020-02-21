@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: 3c811e35f5b14f3439652689f85c60e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: C3D:optical
+    100002: C3D:safaring_BackLeft
+    100004: C3D:safaring_BackRight
+    100006: C3D:safaring_BackTop
+    100008: C3D:safaring_Chest
+    100010: C3D:safaring_HeadFront
+    100012: C3D:safaring_HeadSide
+    100014: C3D:safaring_HeadTop
+    100016: C3D:safaring_LAnkleOut
+    100018: C3D:safaring_LElbowOut
+    100020: C3D:safaring_LHandOut
+    100022: C3D:safaring_LKneeOut
+    100024: C3D:safaring_LShin
+    100026: C3D:safaring_LShoulderBack
+    100028: C3D:safaring_LShoulderTop
+    100030: C3D:safaring_LThigh
+    100032: C3D:safaring_LToeIn
+    100034: C3D:safaring_LToeOut
+    100036: C3D:safaring_LUArmHigh
+    100038: C3D:safaring_LWristIn
+    100040: C3D:safaring_LWristOut
+    100042: C3D:safaring_RAnkleOut
+    100044: C3D:safaring_RElbowOut
+    100046: C3D:safaring_RHandOut
+    100048: C3D:safaring_RKneeOut
+    100050: C3D:safaring_RShin
+    100052: C3D:safaring_RShoulderBack
+    100054: C3D:safaring_RShoulderTop
+    100056: C3D:safaring_RThigh
+    100058: C3D:safaring_RToeIn
+    100060: C3D:safaring_RToeOut
+    100062: C3D:safaring_RUArmHigh
+    100064: C3D:safaring_RWristIn
+    100066: C3D:safaring_RWristOut
+    100068: C3D:safaring_WaistLBack
+    100070: C3D:safaring_WaistLFront
+    100072: C3D:safaring_WaistRBack
+    100074: C3D:safaring_WaistRFront
+    100076: //RootNode
+    100078: safaring:AbNull
+    100080: safaring:ChestNull
+    100082: safaring:HeadNull
+    100084: safaring:HipNull
+    100086: safaring:LFArmNull
+    100088: safaring:LFootNull
+    100090: safaring:LHandNull
+    100092: safaring:LShinNull
+    100094: safaring:LShoulderNull
+    100096: safaring:LThighNull
+    100098: safaring:LToeNull
+    100100: safaring:LUArmNull
+    100102: safaring:NeckNull
+    100104: safaring:RFArmNull
+    100106: safaring:RFootNull
+    100108: safaring:RHandNull
+    100110: safaring:RShinNull
+    100112: safaring:RShoulderNull
+    100114: safaring:RThighNull
+    100116: safaring:RToeNull
+    100118: safaring:RUArmNull
+    400000: C3D:optical
+    400002: C3D:safaring_BackLeft
+    400004: C3D:safaring_BackRight
+    400006: C3D:safaring_BackTop
+    400008: C3D:safaring_Chest
+    400010: C3D:safaring_HeadFront
+    400012: C3D:safaring_HeadSide
+    400014: C3D:safaring_HeadTop
+    400016: C3D:safaring_LAnkleOut
+    400018: C3D:safaring_LElbowOut
+    400020: C3D:safaring_LHandOut
+    400022: C3D:safaring_LKneeOut
+    400024: C3D:safaring_LShin
+    400026: C3D:safaring_LShoulderBack
+    400028: C3D:safaring_LShoulderTop
+    400030: C3D:safaring_LThigh
+    400032: C3D:safaring_LToeIn
+    400034: C3D:safaring_LToeOut
+    400036: C3D:safaring_LUArmHigh
+    400038: C3D:safaring_LWristIn
+    400040: C3D:safaring_LWristOut
+    400042: C3D:safaring_RAnkleOut
+    400044: C3D:safaring_RElbowOut
+    400046: C3D:safaring_RHandOut
+    400048: C3D:safaring_RKneeOut
+    400050: C3D:safaring_RShin
+    400052: C3D:safaring_RShoulderBack
+    400054: C3D:safaring_RShoulderTop
+    400056: C3D:safaring_RThigh
+    400058: C3D:safaring_RToeIn
+    400060: C3D:safaring_RToeOut
+    400062: C3D:safaring_RUArmHigh
+    400064: C3D:safaring_RWristIn
+    400066: C3D:safaring_RWristOut
+    400068: C3D:safaring_WaistLBack
+    400070: C3D:safaring_WaistLFront
+    400072: C3D:safaring_WaistRBack
+    400074: C3D:safaring_WaistRFront
+    400076: //RootNode
+    400078: safaring:AbNull
+    400080: safaring:ChestNull
+    400082: safaring:HeadNull
+    400084: safaring:HipNull
+    400086: safaring:LFArmNull
+    400088: safaring:LFootNull
+    400090: safaring:LHandNull
+    400092: safaring:LShinNull
+    400094: safaring:LShoulderNull
+    400096: safaring:LThighNull
+    400098: safaring:LToeNull
+    400100: safaring:LUArmNull
+    400102: safaring:NeckNull
+    400104: safaring:RFArmNull
+    400106: safaring:RFootNull
+    400108: safaring:RHandNull
+    400110: safaring:RShinNull
+    400112: safaring:RShoulderNull
+    400114: safaring:RThighNull
+    400116: safaring:RToeNull
+    400118: safaring:RUArmNull
+    7400000: SAFA_JUMP
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'SAFA_JUMP' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'safaring:ChestNull' has translation animation
+      that will be discarded.\n\t'safaring:HeadNull' has translation animation that
+      will be discarded.\n\t'safaring:LHandNull' has translation animation that will
+      be discarded.\n\t'safaring:RHandNull' has translation animation that will be
+      discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SAFA_JUMP
+      takeName: SAFA_JUMP
+      firstFrame: 251
+      lastFrame: 502
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: safaring:HipNull
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:LThighNull
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:RThighNull
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:LShinNull
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:RShinNull
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:LFootNull
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:RFootNull
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:AbNull
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:ChestNull
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:NeckNull
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:HeadNull
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:LShoulderNull
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:RShoulderNull
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:LUArmNull
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:RUArmNull
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:LFArmNull
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:RFArmNull
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:LHandNull
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:RHandNull
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:LToeNull
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: safaring:RToeNull
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SAFA_JUMP(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:optical
+      parentName: SAFA_JUMP(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_WaistLFront
+      parentName: C3D:optical
+      position: {x: -0.26195, y: 0.97950995, z: -0.3168}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_WaistRFront
+      parentName: C3D:optical
+      position: {x: -0.00336, y: 0.95591, z: -0.28714}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_WaistLBack
+      parentName: C3D:optical
+      position: {x: -0.28461, y: 0.85902, z: -0.51477}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_WaistRBack
+      parentName: C3D:optical
+      position: {x: 0.0411, y: 0.85953003, z: -0.48782}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_BackTop
+      parentName: C3D:optical
+      position: {x: -0.11472, y: 1.35463, z: -0.55021995}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_Chest
+      parentName: C3D:optical
+      position: {x: -0.19934, y: 1.22181, z: -0.27222}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_BackLeft
+      parentName: C3D:optical
+      position: {x: -0.19707, y: 1.18828, z: -0.55464}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_BackRight
+      parentName: C3D:optical
+      position: {x: -0.041279998, y: 1.19009, z: -0.54701}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_HeadTop
+      parentName: C3D:optical
+      position: {x: -0.120519996, y: 1.61587, z: -0.41092998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_HeadFront
+      parentName: C3D:optical
+      position: {x: -0.14544, y: 1.5847099, z: -0.33616}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_HeadSide
+      parentName: C3D:optical
+      position: {x: -0.03798, y: 1.57022, z: -0.39908}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LShoulderBack
+      parentName: C3D:optical
+      position: {x: -0.2643, y: 1.2934399, z: -0.53967994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LShoulderTop
+      parentName: C3D:optical
+      position: {x: -0.20910999, y: 1.38863, z: -0.49715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LElbowOut
+      parentName: C3D:optical
+      position: {x: -0.51557, y: 1.31565, z: -0.48307}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LUArmHigh
+      parentName: C3D:optical
+      position: {x: -0.40551996, y: 1.26508, z: -0.49386}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LHandOut
+      parentName: C3D:optical
+      position: {x: -0.81234, y: 1.31179, z: -0.41603}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LWristOut
+      parentName: C3D:optical
+      position: {x: -0.7383, y: 1.31891, z: -0.45323002}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LWristIn
+      parentName: C3D:optical
+      position: {x: -0.73570997, y: 1.29753, z: -0.38388}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RShoulderBack
+      parentName: C3D:optical
+      position: {x: 0.012979999, y: 1.2880701, z: -0.53477}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RShoulderTop
+      parentName: C3D:optical
+      position: {x: -0.02237, y: 1.39248, z: -0.46925998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RElbowOut
+      parentName: C3D:optical
+      position: {x: 0.28037998, y: 1.2851601, z: -0.45636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RUArmHigh
+      parentName: C3D:optical
+      position: {x: 0.19284, y: 1.24009, z: -0.45000997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RHandOut
+      parentName: C3D:optical
+      position: {x: 0.56236, y: 1.2896099, z: -0.37326998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RWristOut
+      parentName: C3D:optical
+      position: {x: 0.49960998, y: 1.26866, z: -0.42366}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RWristIn
+      parentName: C3D:optical
+      position: {x: 0.49473, y: 1.25131, z: -0.33844}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LKneeOut
+      parentName: C3D:optical
+      position: {x: -0.26751, y: 0.46078, z: -0.47408998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LThigh
+      parentName: C3D:optical
+      position: {x: -0.21304001, y: 0.68367994, z: -0.32332}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LAnkleOut
+      parentName: C3D:optical
+      position: {x: -0.25801998, y: 0.10668, z: -0.47838}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LShin
+      parentName: C3D:optical
+      position: {x: -0.20672001, y: 0.32946, z: -0.41584998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LToeOut
+      parentName: C3D:optical
+      position: {x: -0.27601, y: 0.07034, z: -0.35835996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_LToeIn
+      parentName: C3D:optical
+      position: {x: -0.21824, y: 0.0767, z: -0.33835}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RKneeOut
+      parentName: C3D:optical
+      position: {x: 0.02589, y: 0.475, z: -0.42958}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RThigh
+      parentName: C3D:optical
+      position: {x: -0.02552, y: 0.61955, z: -0.33233002}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RAnkleOut
+      parentName: C3D:optical
+      position: {x: 0.02609, y: 0.12613, z: -0.47930998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RShin
+      parentName: C3D:optical
+      position: {x: -0.0029, y: 0.36361, z: -0.4134}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RToeOut
+      parentName: C3D:optical
+      position: {x: 0.03692, y: 0.07289, z: -0.34601}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:safaring_RToeIn
+      parentName: C3D:optical
+      position: {x: -0.017029999, y: 0.07425, z: -0.33396998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:HipNull
+      parentName: SAFA_JUMP(Clone)
+      position: {x: -0.13737, y: 0.8279, z: -0.39705002}
+      rotation: {x: -0.03128773, y: -0.045467146, z: -0.015371422, w: 0.9983574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:AbNull
+      parentName: safaring:HipNull
+      position: {x: -0, y: 0.07052, z: 0}
+      rotation: {x: -0.033155926, y: -0.00010070051, z: 0.0043179225, w: 0.9994409}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:ChestNull
+      parentName: safaring:AbNull
+      position: {x: -0, y: 0.20035999, z: 0}
+      rotation: {x: -0.058723047, y: 0.0001234979, z: -0.0018852885, w: 0.99827254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:NeckNull
+      parentName: safaring:ChestNull
+      position: {x: -0, y: 0.21905, z: 0}
+      rotation: {x: 0.099394366, y: -0.11184474, z: -0.046901893, w: 0.98762935}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:HeadNull
+      parentName: safaring:NeckNull
+      position: {x: -0, y: 0.13331, z: 0.0172}
+      rotation: {x: 0.1129997, y: -0.12345162, z: 0.013849158, w: 0.98579866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:LShoulderNull
+      parentName: safaring:ChestNull
+      position: {x: -0.0347, y: 0.18257, z: -0.0037299998}
+      rotation: {x: -0.0060039656, y: 0.004154424, z: -0.1599368, w: 0.98710024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:LUArmNull
+      parentName: safaring:LShoulderNull
+      position: {x: -0.111339994, y: 0, z: 0}
+      rotation: {x: -0.030177487, y: 0.11627239, z: 0.2185283, w: 0.9684087}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:LFArmNull
+      parentName: safaring:LUArmNull
+      position: {x: -0.27521998, y: 0, z: 0}
+      rotation: {x: 0.14487718, y: -0.021340135, z: 0.0070889643, w: 0.9891941}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:LHandNull
+      parentName: safaring:LFArmNull
+      position: {x: -0.21614999, y: 0, z: 0}
+      rotation: {x: 0.14477623, y: 0.040751755, z: -0.015378833, w: 0.98850524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:RShoulderNull
+      parentName: safaring:ChestNull
+      position: {x: 0.03399, y: 0.18257, z: -0.0037299998}
+      rotation: {x: -0.011566974, y: -0.061023127, z: 0.14944167, w: 0.98681796}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:RUArmNull
+      parentName: safaring:RShoulderNull
+      position: {x: 0.111339994, y: 0, z: 0}
+      rotation: {x: -0.0494685, y: 0.030835653, z: -0.19110955, w: 0.97983634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:RFArmNull
+      parentName: safaring:RUArmNull
+      position: {x: 0.27521998, y: 0, z: 0}
+      rotation: {x: 0.13994858, y: 0.050116077, z: -0.034538116, w: 0.9882864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:RHandNull
+      parentName: safaring:RFArmNull
+      position: {x: 0.21619, y: 0, z: 0}
+      rotation: {x: 0.14020208, y: -0.0055233208, z: 0.01090021, w: 0.9900475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:LThighNull
+      parentName: safaring:HipNull
+      position: {x: -0.086, y: 0, z: 0}
+      rotation: {x: 0.091380306, y: 0.0004431486, z: 0.01949281, w: 0.9956252}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:LShinNull
+      parentName: safaring:LThighNull
+      position: {x: -0, y: -0.34808996, z: 0}
+      rotation: {x: -0.027439585, y: -0.04982994, z: -0.016013233, w: 0.99825233}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:LFootNull
+      parentName: safaring:LShinNull
+      position: {x: -0, y: -0.40673, z: 0}
+      rotation: {x: -0.017784474, y: -0.0016176455, z: 0.02825464, w: 0.99944127}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:LToeNull
+      parentName: safaring:LFootNull
+      position: {x: -0, y: -0.0559, z: 0.12900999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:RThighNull
+      parentName: safaring:HipNull
+      position: {x: 0.086, y: 0, z: 0}
+      rotation: {x: 0.11748767, y: -0.007855515, z: 0.04380065, w: 0.9920769}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:RShinNull
+      parentName: safaring:RThighNull
+      position: {x: -0, y: -0.34808996, z: 0}
+      rotation: {x: -0.03822774, y: 0.06997451, z: -0.01570949, w: 0.99669224}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:RFootNull
+      parentName: safaring:RShinNull
+      position: {x: -0, y: -0.40673, z: 0}
+      rotation: {x: -0.029320614, y: 0.048594553, z: -0.035723194, w: 0.99774885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: safaring:RToeNull
+      parentName: safaring:RFootNull
+      position: {x: -0, y: -0.0559, z: 0.12900999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
